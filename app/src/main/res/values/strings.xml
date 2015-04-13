@@ -2,5 +2,8 @@
     <string name="app_name">LayoutExamples</string>
     <string name="hello_world">Hello Universe!</string>
     <string name="action_settings">Settings</string>
+    <string name="search_text">Text to find...</string>
+    <string name="search_hint">Enter search terms here</string>
+    <string name="search_bar_name">SEARCH</string>
 
 </resources>
